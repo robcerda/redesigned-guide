@@ -1,3 +1,3 @@
 # README
 
-Initial readme specifying mta-sts for my personal domain.
+Initial readme specifying mta-sts for my secondary domain.
